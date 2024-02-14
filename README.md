@@ -7,7 +7,8 @@ X(n×m) =S(n×r) × P(r×m),
 where r is corresponding to the number of absorbing sub-stances. Each column of S represents the absorption spectrum of a certain substances, while each row of P represents its eluting peak. Since all the elements in X, P, and S matrices are all nonnegative, the factorization is indeed a NMF problem.  
 
 For more infomation please refer to our paper:
-Xu N, Hu M, Li X et al. Resolving ultraviolet-visible spectral for complex dissolved mixtures of multitudinous organic matters in aerosol. Analytical Chemistry.  
+Xu, N.; Hu, M.; Li, X.; Song, K.; Qiu, Y.; Sun, H. X.; Wang, Y.; Zeng, L.; Li, M.; Wang, H.; Hu, S.; Zong, T.; Bai, Y.; Zhang, Z.; Li, S.; Shuai, S.; Chen, Y.; Guo, S., Resolving Ultraviolet–Visible Spectra for Complex Dissolved Mixtures of Multitudinous Organic Matters in Aerosols. Anal. Chem. 2024, 96, (5), 1834-1842.
+DOI: 10.1021/acs.analchem.3c02700
 
 ## Operation
 1.Prepare data as the main.m required.  
